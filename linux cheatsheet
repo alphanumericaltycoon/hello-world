@@ -1,0 +1,4 @@
+Change keyboard:
+
+sudo nano /etc/default/keyboard
+change XKBLAYOUT="gb" to your countries code and save the file and reboot. 
