@@ -1,4 +1,3 @@
-# hello-world
-Just another repository
+# Saving code..
+Just saving code snippets to use later
 
-Hello humans!
